@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Продвинутые методы работы с Terraform»
+# Домашнее задание к занятию «Продвинутые методы работы с Terraform»-Абрамов Сергей
 
 ### Цели задания
 
@@ -118,19 +118,19 @@ packages:
  
 
 ```
-![1]()
+![1](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/1.png)
 
-![2]()
+![2](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/2.png)
 
-![3]()
+![3](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/3.png)
 
-![4]()
+![4](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/4.png)
 
-![5]()
+![5](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/5.png)
 
-![6]()
+![6](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/6.png)
 
-![7]()
+![7](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/7.png)
 
 ### Задание 2
 
@@ -230,9 +230,9 @@ data "template_file" "cloudinit" {
 
 Вывод консоли:
 
-![8]()
+![8](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/8.png)
 
-![9]()
+![9](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/9.png)
 
 ### Задание 3
 1. Выведите список ресурсов в стейте.
@@ -245,23 +245,23 @@ data "template_file" "cloudinit" {
 
 1.
 
-![10]()
+![10](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/10.png)
 
 2.
 
-![11]()
+![11](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/11.png)
 
 3.
 
-![12]()
+![12](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/12.png)
 
 4.
 
-![13]()
+![13](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/13.png)
 
-![14]()
+![14](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/14.png)
 
-![15]()
+![15](https://github.com/smabramov/Terraform-hw-04/blob/2197a9bb38a07300405edbc67f932ce844f9eec2/jpg/15.png)
 
 ## Дополнительные задания (со звёздочкой*)
 
